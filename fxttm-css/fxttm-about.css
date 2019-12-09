@@ -1,0 +1,112 @@
+body{
+
+    overflow-x: hidden;
+}
+
+div.nav-one{
+
+    background-color: black;
+}
+ div.navbar-top div.nav-one ul{
+
+    margin-left: 70vw;
+    
+
+
+ } 
+ div.navbar-top div.nav-one ul li a.nav-link{
+
+    color: white;
+    font-family:Times New Roman;
+ }
+
+div.nav-two{
+
+    background-color: hsl(225, 59%, 11%);
+    height: 16vh;
+    z-index: 1;
+}
+ div.nav-two img{
+
+    width: 8vw;
+    height: 15vh;
+    margin-left: 8vw;
+    margin-top: -1.8vh;
+ }
+
+ div.nav-two a.nav-link{
+
+    color: white;
+    font-family: Times New Roman;
+    margin-top: -2vh;
+
+ }
+
+ div.nav-two ul{
+
+    margin-left: 50vw;
+ }
+
+ div.img-sec{
+     position: relative;
+     width: 100vw;
+     margin-top: -1vh;
+     z-index: -1;
+     
+ }
+
+ div.img-sec img{
+
+    position: absolute;
+    width: inherit;
+    height: 50vh;
+    
+ }
+ 
+ div.img-sec h2{
+
+    position: absolute;
+    color: white;
+    top:30vh;
+    font-size: 2.5em;
+    text-align: center;
+    margin-left:30vw;
+ }
+ div.main{
+     width: 90%;
+     margin-left: 5vw;
+     margin-top: 60vh;
+ }
+ div.main img{
+     height: 40vh;
+     width: 10vw;
+ }
+
+ div.main p{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 0.9em;
+ }
+
+ div.main a{
+
+    width: 10vw;
+    margin-left: 40vw;
+ }
+
+div.footer{
+
+    background-color: lightslategrey;
+}
+ div.section-ten{
+
+    width: 80%;
+    margin-left: 10vw;
+    
+    margin-top: 10vh;
+}
+ div.section-ten h6{
+ 
+    font-size: 0.6em;
+    line-height: 4vh;
+}
